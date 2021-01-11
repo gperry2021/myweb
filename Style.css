@@ -1,0 +1,195 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background: #3C3744;
+}
+
+
+#container
+{
+	height: 520px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+header
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+nav
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+aside
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: left;
+}
+
+#main
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: right;
+}
+
+footer
+{
+	background-color: #3D52D5;
+	margin: 15px;
+	clear:both;
+}
+
+h1
+{
+	color:#B4C5E4;
+	margin: 5px;
+	padding: 10px;
+}
+
+h4
+{
+margin: 5px;
+	padding: 10px;
+	color:#B4C5E4;
+}
+
+h5
+{
+margin: 5px;
+	padding: 10px;
+	color:#B4C5E4;
+}
+
+p
+{
+margin: 5px;
+	padding: 10px;
+	color:#B4C5E4;
+}
+
+ol
+{
+margin: 5px;
+	padding: 10px;
+	color:#E3879E;
+}
+
+li
+{
+margin: 5px;
+	padding: 10px;
+	color:#B4C5E4;
+}
+
+#Second
+{
+	height: 460px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+header
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+nav
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+aside
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: left;
+}
+
+#reason
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: right;
+}
+
+footer
+{
+	background-color: #3D52D5;
+	margin: 15px;
+	clear:both;
+}
+
+#Third
+{
+height: 460px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+nav
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+aside
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: left;
+}
+
+#people
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: right;
+}
+
+footer
+{
+	background-color: #3D52D5;
+	margin: 15px;
+	clear:both;
+}
