@@ -193,3 +193,93 @@ footer
 	margin: 15px;
 	clear:both;
 }
+#Fourth
+{
+height: 460px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+nav
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+aside
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: left;
+}
+
+#game
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: right;
+}
+
+footer
+{
+	background-color: #3D52D5;
+	margin: 15px;
+	clear:both;
+}
+#Fifth
+{
+height: 460px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+nav
+{
+	background-color: #3D52D5;
+	margin: 10px;
+}
+
+aside
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 380px;
+	width: 460px;
+	float: left;
+}
+
+#musics
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 380px;
+	width: 460px;
+	float: right;
+}
+
+footer
+{
+	background-color: #3D52D5;
+	margin: 15px;
+	clear:both;
+}
