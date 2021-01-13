@@ -11,7 +11,7 @@ body
 
 #container
 {
-	height: 1300px;
+	height: 110px;
 	width: 960px;
 	background-color: #5254fd;
 	margin-left: auto;
@@ -82,7 +82,7 @@ p
 {
 margin: 5px;
 	padding: 10px;
-	color:#B4C5E4;
+	color:#0004ff;
 }
 
 ol
