@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang='en'>
+
+	<head>
+		<meta charset="utf-8">
+		<Link href="javascript.css" rel ="StyleSheet">
+		<title>Gabriel's java script page</title>
+		
+	</head>
+	
+	<body>
+	
+		<div id = "container">
+		
+			<header>
+				<h2 id="home"> Gabriel's java script project</h2>
+			</header>
+			
+			<nav>
+				<ul>
+					<li> <a href="file:///C:/Users/gperry/repos/myweb/Gabriel's%20Page.html#important" title="home page">home.</a>
+					 </li>
+				</ul>
+			</nav>
+			
+			<h3>99 bottles of pop</h3>
+			<p>This is what the code runs.</p>
+				
+			<script>
+					
+				var word = "bottles";
+						
+				var count = 99;
+				
+				while (count > 0) {
+						
+					console.log(count + " " + word + " of pop on the wall");
+							
+					document.writeln("<p>" + count + " " + word + " of pop on the wall</p>");
+							
+					console.log(count + " " + word + " of pop,");
+							
+					document.writeln("<p>" + count + " " + word + " of pop,</p>");
+							
+					console.log("Take one down, pass it around,");
+							
+					document.writeln("<p>Take one down, pass it around,</p>");
+							
+					count = count - 1;
+							
+				if (count > 0) {
+							
+					console.log(count + " " + word + " of pop on the wall.");
+								
+					document.writeln("<p>" + count + " " + word + " of pop on the wall.</p>");
+								
+				}	else {
+							
+						console.log("No more " + word + " of pop on the wall.");
+								
+					document.writeln("<p>No more " + word + " of pop on the wall.</p>");
+							
+				}
+					
+			}
+		</script>
+	</body>
+</html>
