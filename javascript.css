@@ -6,12 +6,12 @@
 
 body
 {
-	background: #489eff;
+	background: #000000;
 }
 
 #container
 {
-	height: 110px;
+	height: 150px;
 	width: 960px;
 	background-color: #5254fd;
 	margin-left: auto;
@@ -64,6 +64,13 @@ h1
 	padding: 10px;
 }
 
+h3
+{
+	color:#B4C5E4;
+	margin: 5px;
+	padding: 10px;
+}
+
 h4
 {
 margin: 5px;
@@ -81,20 +88,6 @@ margin: 5px;
 p
 {
 margin: 5px;
-	padding: 10px;
-	color:#0004ff;
-}
-
-ol
-{
-margin: 5px;
-	padding: 10px;
-	color:#E3879E;
-}
-
-li
-{
-margin: 5px;
-	padding: 10px;
-	color:#B4C5E4;
+	padding: 5px;
+	color:#4ac4ff;
 }

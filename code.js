@@ -5,16 +5,16 @@ var word = "bottles";
 				while (count > 0) {
 						
 					console.log(count + " " + word + " of pop on the wall");
-					
-					document.write("<p>" + count + " " + word + " of pop on the wall</p>");
 							
 					console.log(count + " " + word + " of pop,");
-							
-					document.write("<p>" + count + " " + word + " of pop,</p>");
-							
+					
 					console.log("Take one down, pass it around,");
+					
+					document.write("<p>" + count + " " + word + " of pop on the wall ");
 							
-					document.write("<p>Take one down, pass it around,</p>");
+					document.write(count + " " + word + " of pop, ");
+							
+					document.write("Take one down, pass it around, ");
 							
 					count = count - 1;
 							
@@ -22,13 +22,13 @@ var word = "bottles";
 							
 					console.log(count + " " + word + " of pop on the wall.");
 								
-					document.write("<p>" + count + " " + word + " of pop on the wall.</p>");
+					document.write(count + " " + word + " of pop on the wall.");
 								
 				}	else {
 							
 						console.log("No more " + word + " of pop on the wall.");
 								
-					document.write("<p>No more " + word + " of pop on the wall.</p>");
+					document.write("No more " + word + " of pop on the wall.</p>");
 							
 				}
 					
