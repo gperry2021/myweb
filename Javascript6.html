@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang='en'>
+
+	<head>
+		<meta charset="utf-8">
+		<Link href="javascript6.css" rel ="StyleSheet" type = "text/css" />
+		<title>Gabriel perry's Planets</title>
+		<script>
+		function init() {
+		var planet = document.getElementById("greenplanet");
+		planet.innerHTML = "Red Alert: hit by phaser fire!";
+		planet.setAttribute("class", "redtext");
+		var planetb = document.getElementById("blueplanet");
+		planetb.innerHTML = "Blue alert everything is A-Ok!";
+		planetb.setAttribute("class", "bluetext");
+		}
+		
+		window.onload = init;
+		</script>
+	</head>
+	
+	<body>
+	
+		<div id = "container">
+		
+			<header>
+				<h2 id="home"> Gabriel's java script project</h2>
+			</header>
+			
+			<nav>
+				<ul>
+					<li> <a href="http://mrgeiger.com/students/gperry/" title="home page">home.</a>
+					 </li>
+				</ul>
+			</nav>
+			
+			<h1>Green Planet</h1>
+			<p id="greenplanet">All is well</p>
+			<h1>Red Planet</h1>
+			<p id="redplanet">Nothing to report</p>
+			<h1>Blue Planet</h1>
+			<p id="blueplanet">All systems A-OK</p>
+				
+		</div>
+	</body>
+</html>
