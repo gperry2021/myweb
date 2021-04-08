@@ -7,6 +7,7 @@
 body
 {
 	background: #3C3744;
+	background: url("Ice.jpg");
 }
 
 
@@ -123,14 +124,6 @@ nav
 	margin: 10px;
 }
 
-aside
-{
-	background-color: #3D52D5;
-	margin: 10px;
-	height: 300px;
-	width: 460px;
-	float: left;
-}
 
 #reason
 {
@@ -169,14 +162,7 @@ nav
 	margin: 10px;
 }
 
-aside
-{
-	background-color: #3D52D5;
-	margin: 10px;
-	height: 300px;
-	width: 460px;
-	float: left;
-}
+
 
 #people
 {
@@ -214,14 +200,7 @@ nav
 	margin: 10px;
 }
 
-aside
-{
-	background-color: #3D52D5;
-	margin: 10px;
-	height: 300px;
-	width: 460px;
-	float: left;
-}
+
 
 #game
 {
@@ -259,20 +238,11 @@ nav
 	margin: 10px;
 }
 
-aside
-{
-	background-color: #3D52D5;
-	margin: 10px;
-	height: 380px;
-	width: 460px;
-	float: left;
-}
-
 #musics
 {
 	background-color: #3D52D5;
 	margin: 10px;
-	height: 380px;
+	height: 300px;
 	width: 460px;
 	float: right;
 }
