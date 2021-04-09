@@ -7,7 +7,7 @@
 body
 {
 	background: #3C3744;
-	background: url("Ice.jpg");
+	background: url("water.jpg");
 }
 
 
@@ -167,6 +167,24 @@ height: 460px;
 }
 
 #musics
+{
+	background-color: #3D52D5;
+	margin: 10px;
+	height: 300px;
+	width: 460px;
+	float: right;
+}
+
+#Sixth
+{
+height: 460px;
+	width: 960px;
+	background-color: #090C9B;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#social
 {
 	background-color: #3D52D5;
 	margin: 10px;
