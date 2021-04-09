@@ -112,19 +112,6 @@ margin: 5px;
 	
 }
 
-header
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-nav
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-
 #reason
 {
 	background-color: #3D52D5;
@@ -132,13 +119,6 @@ nav
 	height: 300px;
 	width: 460px;
 	float: right;
-}
-
-footer
-{
-	background-color: #3D52D5;
-	margin: 15px;
-	clear:both;
 }
 
 #Third
@@ -150,20 +130,6 @@ height: 460px;
 	margin-right: auto;
 }
 
-header
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-nav
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-
-
 #people
 {
 	background-color: #3D52D5;
@@ -173,12 +139,6 @@ nav
 	float: right;
 }
 
-footer
-{
-	background-color: #3D52D5;
-	margin: 15px;
-	clear:both;
-}
 #Fourth
 {
 height: 460px;
@@ -187,20 +147,6 @@ height: 460px;
 	margin-left: auto;
 	margin-right: auto;
 }
-
-header
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-nav
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-
 
 #game
 {
@@ -211,12 +157,6 @@ nav
 	float: right;
 }
 
-footer
-{
-	background-color: #3D52D5;
-	margin: 15px;
-	clear:both;
-}
 #Fifth
 {
 height: 460px;
@@ -226,18 +166,6 @@ height: 460px;
 	margin-right: auto;
 }
 
-header
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
-nav
-{
-	background-color: #3D52D5;
-	margin: 10px;
-}
-
 #musics
 {
 	background-color: #3D52D5;
@@ -245,11 +173,4 @@ nav
 	height: 300px;
 	width: 460px;
 	float: right;
-}
-
-footer
-{
-	background-color: #3D52D5;
-	margin: 15px;
-	clear:both;
 }
